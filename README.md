@@ -21,15 +21,15 @@ File Desciptions:
 
 Run a Program:
 
-###########################################################
+    ###########################################################
 
-python task.py 
+    python task.py 
         \/ 
- [Output / Result]
-   |    |
-   |    |__Computed Csv File ------{BMI_CALCULATED_RESULTS.csv}
-   |
-   |
-   |__ Computed Graph report ------{bmi_analysis_report.png}   
+    [Output / Result]
+        |       |
+        |       |__Computed Csv File ------{BMI_CALCULATED_RESULTS.csv}
+        |
+        |
+        |__ Computed Graph report ------{bmi_analysis_report.png}   
 
-###########################################################
+    ###########################################################
