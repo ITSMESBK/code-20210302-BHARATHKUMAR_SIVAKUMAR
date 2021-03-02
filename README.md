@@ -32,7 +32,3 @@ python task.py
    |__ Computed Graph report ------{bmi_analysis_report.png}   
 
 
-Graph_data: 
-
-![index](https://user-images.githubusercontent.com/35873425/109648929-37143180-7b81-11eb-9e26-74982de602c2.png)
-
