@@ -9,19 +9,19 @@ File Names :
 
 File Desciptions:
 
-   ->task.py 
+    ->task.py 
         + The Program written in a way of Using OOP and Method concepts and build as a Frame Work
         + So Basically As a Frame work implementation has work tweek mechanism 
         + If we want to add or remove any variables,we can use the variable file.
         + The Entire Work flow of the script tracked by using the doc string
 
-   ->variable.py
+    ->variable.py
         + The variable file hold all the required variables need for the product
         + The Architecture of splliting the Constants and variables will make things easier,when we develop on top of the same code
 
 Run a Program:
 
-############################################################################################################
+###########################################################
 
 python task.py 
         \/ 
@@ -32,4 +32,4 @@ python task.py
    |
    |__ Computed Graph report ------{bmi_analysis_report.png}   
 
-
+###########################################################
